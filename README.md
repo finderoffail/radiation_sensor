@@ -164,7 +164,7 @@ That spark of interest made this project all worthwhile.
 
 There was some real learning about biology, nuclear medicine, radiation, electronics, and data analysis. It was Grandma's insistence that other kids going through similar treatment might enjoy this project, and that directly led to the final hardware improvements (*thanks mom!*).
 
-This is why I have published this post. If you do attempt to reproduce this, please [drop me a line](mailto:finderoffail@dobber.ca).
+This is why I have published this post. If you do attempt to reproduce this, please [drop me a line](mailto:finderoffail@dobber.ca) ([@finderoffail](https://twitter.com/finderoffail)).
 
 Most of all, I want to thank all the fabulous staff and volunteers at [Sick Kids Hospital](https://www.sickkids.ca) in Toronto. While they had no direct involvement with this project, they were directly responsible for the world class treatment and care that our kid received, and for the speedy recovery. Truly, they have the best people working there and we are all super grateful.
 
