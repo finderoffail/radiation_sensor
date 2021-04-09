@@ -127,7 +127,7 @@ The charging module and battery are held in place with hot glue. Drill some smal
 
 <img src="images/usb.jpg" height="200"/> <img src="images/led.jpg" height="200"/>
 
-Once it is all working, jam it all in the box. I used a bit of foam to keep it from bouncing around too much as vibrations will cause the noice pin to trigger.
+Once it is all working, jam it all in the box. I used a bit of foam to keep it from bouncing around too much as vibrations will cause the noise pin to trigger.
 
 Close it up, you are done!
 
